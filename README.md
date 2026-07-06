@@ -6,13 +6,13 @@
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,ps,pr,xd,azure,github,visualstudio,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=azure,github,visualstudio,vscode,wordpress" />
 
 ### Languages:<br><br>
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,php,js,jquery," />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,html,css,php,js,jquery,nodejs" />
   </a>
 </p>
   
