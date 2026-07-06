@@ -16,4 +16,4 @@
   </a>
 </p>
   
-  <h4>Founder and CEO at <a class="link" href="https://www.qspace.rf.gd">Qspace Corporation</a><br><hr>
+  <h4>Founder and CEO at <a class="link" href="https://www.qspace.it">Qspace Labs</a><br><hr>
